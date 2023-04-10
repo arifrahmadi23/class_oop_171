@@ -11,5 +11,7 @@ public:
 	}
 };
 
-class MataKuliah {};
+class MataKuliah {
+private:
+};
 			 
