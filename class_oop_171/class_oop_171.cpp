@@ -29,8 +29,8 @@ public:
 
 	void tampilMK() {
 		cout << "\nJumlah sks = " << sks;
-		cout << "Kode MK = " << kode;
-		cout << "Nama MK = " << namaMk << endl;
+		cout << "\nKode MK = " << kode;
+		cout << "\nNama MK = " << namaMk << endl;
 
 	}
 };
