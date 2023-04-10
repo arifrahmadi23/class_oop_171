@@ -44,8 +44,9 @@ int main() {
 	cout << "Masukan Nama = ";
 	cin >> mhs.nama;
 
+	Mk.inputMk();
 	mhs.tampil();
 	Mk.tampilMK();
-	Mk.inputMk();
+	
 };
 			 
