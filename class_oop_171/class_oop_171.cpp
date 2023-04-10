@@ -13,5 +13,8 @@ public:
 
 class MataKuliah {
 private:
+	int sks;
+	string kode;
+	string namaMk;
 };
 			 
